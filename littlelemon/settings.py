@@ -82,8 +82,8 @@ DATABASES = {
         # 'ENGINE': 'django.db.backends.mysql', --does not work on M1 mac--
         'ENGINE': 'mysql.connector.django', 
         'NAME': 'LittleLemon',
-        'USER': 'meta',
-        'PASSWORD': 'password',
+        'USER': 'root',
+        'PASSWORD': 'toor1234',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
