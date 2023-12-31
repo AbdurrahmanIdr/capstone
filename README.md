@@ -12,8 +12,13 @@
 
 ## Testing
 /restaurant/
+
 /restaurant/menu/
+
 /restaurant/menu/<<int:pk>>
+
 /restaurant/menu/
+
 /restaurant/api-token-auth/
+
 /restaurant/booking/tables/
